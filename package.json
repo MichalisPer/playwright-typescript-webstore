@@ -1,0 +1,23 @@
+{
+  "name": "playwright-ts-webstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichalisPer/playwright-typescript-webstore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichalisPer/playwright-typescript-webstore/issues"
+  },
+  "homepage": "https://github.com/MichalisPer/playwright-typescript-webstore#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.30",
+    "dotenv": "^16.5.0"
+  }
+}
